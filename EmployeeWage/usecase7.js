@@ -62,3 +62,7 @@ class employee{
         return final;
     }
 }
+const demo = new employee();
+demo.attendance(1);
+demo.dailywage(100,8);
+demo.isparttime(0);
